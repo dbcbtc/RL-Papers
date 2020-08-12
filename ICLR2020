@@ -1,0 +1,504 @@
+Dynamics-Aware Unsupervised Skill Discovery
+链接 | https://openreview.net/pdf?id=HJgLZR4KvH
+作者 | Archit Sharma, Shixiang Gu, Sergey Levine, Vikash Kumar, Karol Hausman
+单位 | Google Brain
+
+Contrastive Learning of Structured World Models
+链接 | https://openreview.net/pdf?id=H1gax6VtDB
+作者 | Thomas Kipf, Elise van der Pol, Max Welling
+单位 | University of Amsterdam
+
+Implementation Matters in Deep RL: A Case Study on PPO and TRPO
+链接 | https://openreview.net/pdf?id=r1etN1rtPB
+作者 | Logan Engstrom, Andrew Ilyas, Shibani Santurkar, Dimitris Tsipras, Firdaus Janoos, Larry Rudolph, Aleksander Madry
+
+GenDICE: Generalized Offline Estimation of Stationary Values
+链接 | https://openreview.net/pdf?id=HkxlcnVFwB
+作者 | Ruiyi Zhang, Bo Dai, Lihong Li, Dale Schuurmans
+单位 | Duke University; Google Brain
+
+Causal Discovery with Reinforcement Learning
+链接 | https://openreview.net/pdf?id=S1g2skStPB
+作者 | Shengyu Zhu, Ignavier Ng, Zhitang Chen
+Huawei Noah’s Ark Lab; University of Toronto
+
+Is a Good Representation Sufficient for Sample Efficient Reinforcement Learning?
+链接 | https://openreview.net/pdf?id=r1genAVKPB
+作者 | Simon S. Du, Sham M. Kakade, Ruosong Wang, Lin F. Yang
+单位 | University of Washington; Carnegie Mellon University; University of California, Los Angles
+
+Harnessing Structures for Value-Based Planning and Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rklHqRVKvH
+作者 | Yuzhe Yang, Guo Zhang, Zhi Xu, Dina Katabi
+单位 | MIT
+
+Explain Your Move: Understanding Agent Actions Using Focused Feature Saliency
+链接 | https://openreview.net/pdf?id=SJgzLkBKPB
+作者 | Piyush Gupta, Nikaash Puri, Sukriti Verma, Dhruv Kayastha, Shripad Deshmukh, Balaji Krishnamurthy, Sameer Singh
+单位 | Adobe;
+
+Meta-Q-Learning
+链接 | https://openreview.net/pdf?id=SJeD3CEFPH
+作者 | Rasool Fakoor, Pratik Chaudhari, Stefano Soatto, Alexander J. Smola
+Amazon; University of Pennsylvania
+
+Discriminative Particle Filter Reinforcement Learning for Complex Partial observations
+链接 | https://openreview.net/pdf?id=HJl8_eHYvS
+作者 | Xiao Ma, Peter Karkus, David Hsu, Wee Sun Lee, Nan Ye
+单位 | National Unviersity of Singapore; The University of Queesland
+
+Disagreement-Regularized Imitation Learning
+链接 | https://openreview.net/pdf?id=rkgbYyHtwB
+作者 | Kiante Brantley, Wen Sun, Mikael Henaff
+单位 | University of Maryland; Microsoft Research
+
+Doubly Robust Bias Reduction in Infinite Horizon Off-Policy Estimation
+链接 | https://openreview.net/pdf?id=S1glGANtDr
+作者 | Ziyang Tang, Yihao Feng, Lihong Li, Dengyong Zhou, Qiang Liu
+单位 | The University of Texas at Austin; Google Research
+
+SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference
+链接 | https://openreview.net/pdf?id=rkgvXlrKwH
+作者 | Lasse Espeholt, Raphaël Marinier, Piotr Stanczyk, Ke Wang, Marcin Michalski
+单位 | Google Research
+
+The Ingredients of Real World Robotic Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rJe2syrtvS
+作者 | Henry Zhu, Justin Yu, Abhishek Gupta, Dhruv Shah, Kristian Hartikainen, Avi Singh, Vikash Kumar, Sergey Levine
+
+Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search
+链接 | https://openreview.net/pdf?id=BJlQtJSKDB
+作者 | Anji Liu, Jianshu Chen, Mingze Yu, Yu Zhai, Xuewen Zhou, Ji Liu
+单位 | Tencent AI Lab
+
+Meta-Learning Acquisition Functions for Transfer Learning in Bayesian Optimization
+链接 | https://openreview.net/pdf?id=ryeYpJSKwr
+作者 | Michael Volpp, Lukas P. Fröhlich, Kirsten Fischer, Andreas Doerr, Stefan Falkner, Frank Hutter, Christian Daniel
+
+A Closer Look at Deep Policy Gradients
+链接 | https://openreview.net/pdf?id=ryxdEkHtPS
+作者 | Andrew Ilyas, Logan Engstrom, Shibani Santurkar, Dimitris Tsipras, Firdaus Janoos, Larry Rudolph, Aleksander Madry
+
+Fast Task Inference with Variational Intrinsic Successor Features
+链接 | https://openreview.net/pdf?id=BJeAHkrYDS
+作者 | Steven Hansen, Will Dabney, Andre Barreto, David Warde-Farley, Tom Van de Wiele, Volodymyr Mnih
+单位 | DeepMind
+
+Learning to Plan in High Dimensions via Neural Exploration-Exploitation Trees
+链接 | https://openreview.net/pdf?id=rJgJDAVKvB
+作者 | Binghong Chen, Bo Dai, Qinjie Lin, Guo Ye, Han Liu, Le Song
+单位 | Georgia Institute of Technology; Google Research; Northwestern University
+
+Dream to Control: Learning Behaviors by Latent Imagination
+链接 | https://openreview.net/pdf?id=S1lOTC4tDS
+作者 | Danijar Hafner, Timothy Lillicrap, Jimmy Ba, Mohammad Norouzi
+单位 | University of Toronto; DeepMind; Google Brain
+
+Making Efficient Use of Demonstrations to Solve Hard Exploration Problems
+链接 | https://openreview.net/pdf?id=SygKyeHKDH
+作者 | Caglar Gulcehre, Tom Le Paine, Bobak Shahriari, Misha Denil, Matt Hoffman, Hubert Soyer, Richard Tanburn, Steven Kapturowski, Neil Rabinowitz, Duncan Williams, Gabriel Barth-Maron, Ziyu Wang, Nando de Freitas, Worlds Team
+单位 | DeepMind
+
+Intrinsic Motivation for Encouraging Synergistic Behavior
+链接 | https://openreview.net/pdf?id=SJleNCNtDH
+作者 | Rohan Chitnis, Shubham Tulsiani, Saurabh Gupta, Abhinav Gupta
+单位 | MIT; Facebook AI Research
+
+SQIL: Imitation Learning via Reinforcement Learning with Sparse Rewards
+链接 | https://openreview.net/pdf?id=S1xKd24twB
+作者 | Siddharth Reddy, Anca D. Dragan, Sergey Levine
+单位 | UC Berkeley
+
+Reinforcement Learning with Competitive Ensembles of Information-Constrained Primitives
+链接 | https://openreview.net/pdf?id=ryxgJTEYDr
+作者 | Anirudh Goyal, Shagun Sodhani, Jonathan Binas, Xue Bin Peng, Sergey Levine, Yoshua Bengio
+
+Multi-Agent Interactions Modeling with Correlated Policies
+链接 | https://openreview.net/pdf?id=B1gZV1HYvS
+作者 | Minghuan Liu, Ming Zhou, Weinan Zhang, Yuzheng Zhuang, Jun Wang, Wulong Liu, Yong Yu
+单位 | Shanghai Jiaotong University; Huawei Noah’s Ark Lab
+
+Influence-Based Multi-Agent Exploration
+链接 | https://openreview.net/pdf?id=BJgy96EYvr
+作者 | Tonghan Wang, Jianhao Wang, Yi Wu, Chongjie Zhang
+单位 | Tsinghua University
+
+Learning the Arrow of Time for Problems in Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rylJkpEtwS
+作者 | Nasim Rahaman, Steffen Wolf, Anirudh Goyal, Roman Remme, Yoshua Bengio
+单位 | MILA
+
+AMRL: Aggregated Memory For Reinforcement Learning
+链接 | https://openreview.net/pdf?id=Bkl7bREtDr
+作者 | Jacob Beck, Kamil Ciosek, Sam Devlin, Sebastian Tschiatschek, Cheng Zhang, Katja Hofmann
+单位 | Microsoft Research
+
+Model Based Reinforcement Learning for Atari
+链接 | https://openreview.net/pdf?id=S1xCPJHtDB
+作者 | Łukasz Kaiser, Mohammad Babaeizadeh, Piotr Miłos, Błażej Osiński, Roy H Campbell, Konrad Czechowski, Dumitru Erhan, Chelsea Finn, Piotr Kozakowski, Sergey Levine, Afroz Mohiuddin, Ryan Sepassi, George Tucker, Henryk Michalewski
+单位 | Google Brain
+
+Variational Recurrent Models for Solving Partially Observable Control Tasks
+链接 | https://openreview.net/pdf?id=r1lL4a4tDB
+作者 | Dongqi Han, Kenji Doya, Jun Tani
+
+Sample Efficient Policy Gradient Methods with Recursive Variance Reduction
+链接 | https://openreview.net/pdf?id=HJlxIJBFDr
+作者 | Pan Xu, Felicia Gao, Quanquan Gu
+单位 | University of California, Los Angeles
+
+Exploring Model-based Planning with Policy Networks
+链接 | https://openreview.net/pdf?id=H1exf64KwH
+作者 | Tingwu Wang, Jimmy Ba
+单位 | University of Toronto; Vector Institute
+
+Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation
+链接 | https://openreview.net/pdf?id=HygnDhEtvr
+作者 | Yu Chen, Lingfei Wu, Mohammed J. Zaki
+单位 | Rensselaer Polytechnic Institute; IBM Research
+
+RIDE: Rewarding Impact-Driven Exploration for Procedurally-Generated Environments
+链接 | https://openreview.net/pdf?id=rkg-TJBFPB
+作者 | Roberta Raileanu, Tim Rocktäschel
+单位 | New York University; University College London
+
+Learning Expensive Coordination: An Event-Based Deep RL Approach
+链接 | https://openreview.net/pdf?id=ryeG924twB
+作者 | Zhenyu Shi, Runsheng Yu, Xinrun Wang, Rundong Wang, Youzhi Zhang, Hanjiang Lai, Bo An
+单位 | Nanyang Technological University; Sun Yat-sen University
+
+Evolutionary Population Curriculum for Scaling Multi-Agent Reinforcement Learning
+链接 | https://openreview.net/pdf?id=SJxbHkrKDH
+作者 | Qian Long, Zihan Zhou, Abhinav Gupta, Fei Fang, Yi Wu, Xiaolong Wang
+单位 | CMU; OpenAI; Facebook AI Research; SJTU; UCSD
+
+Making Sense of Reinforcement Learning and Probabilistic Inference
+链接 | https://openreview.net/pdf?id=S1xitgHtvS
+作者 | Brendan O’Donoghue, Ian Osband, Catalin Ionescu
+
+Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs
+链接 | https://openreview.net/pdf?id=rkxDoJBYPB
+作者 | Aditya Paliwal, Felix Gimeno, Vinod Nair, Yujia Li, Miles Lubin, Pushmeet Kohli, Oriol Vinyals
+单位 | Google Research; DeepMind;
+
+Never Give Up: Learning Directed Exploration Strategies
+链接 | https://openreview.net/pdf?id=Sye57xStvB
+作者 | Adrià Puigdomènech Badia, Pablo Sprechmann, Alex Vitvitskyi, Daniel Guo, Bilal Piot, Steven Kapturowski, Olivier Tieleman, Martin Arjovsky, Alexander Pritzel, Andrew Bolt, Charles Blundell
+单位 | DeepMind
+
+Robust Reinforcement Learning for Continuous Control with Model Misspecification
+链接 | https://openreview.net/pdf?id=HJgC60EtwB
+作者 | Daniel J. Mankowitz, Nir Levine, Rae Jeong, Abbas Abdolmaleki, Jost Tobias Springenberg, Yuanyuan Shi, Jackie Kay, Todd Hester, Timothy Mann, Martin Riedmiller
+单位 | DeepMind
+
+Synthesizing Programmatic Policies that Inductively Generalize
+链接 | https://openreview.net/pdf?id=S1l8oANFDH
+作者 | Jeevana Priya Inala, Osbert Bastani, Zenna Tavares, Armando Solar-Lezama
+单位 | MIT; University of Pennsylvania
+
+Adaptive Correlated Monte Carlo for Contextual Categorical Sequence Generation
+链接 | https://openreview.net/pdf?id=r1lOgyrKDS
+作者 | Xinjie Fan, Yizhe Zhang, Zhendong Wang, Mingyuan Zhou
+单位 | University of Texas at Austin; Microsoft Research; Columbia University
+
+Improving Generalization in Meta Reinforcement Learning using Learned Objectives
+链接 | https://openreview.net/pdf?id=S1evHerYPr
+作者 | Louis Kirsch, Sjoerd van Steenkiste, Juergen Schmidhuber
+
+Single Episode Policy Transfer in Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rJeQoCNYDS
+作者 | Jiachen Yang, Brenden Petersen, Hongyuan Zha, Daniel Faissol
+单位 | Georgia Institute of Technology
+
+DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames
+链接 | https://openreview.net/pdf?id=H1gX8C4YPr
+作者 | Erik Wijmans, Abhishek Kadian, Ari Morcos, Stefan Lee, Irfan Essa, Devi Parikh, Manolis Savva, Dhruv Batra
+单位 | Georgia Institute of Technology; Facebook AI Research
+
+Geometric Insights into the Convergence of Nonlinear TD Learning
+链接 | https://openreview.net/pdf?id=SJezGp4YPr
+作者 | David Brandfonbrener, Joan Bruna
+单位 | New York University
+
+Dynamics-Aware Embeddings
+链接 | https://openreview.net/pdf?id=BJgZGeHFPH
+作者 | William Whitney, Rajat Agarwal, Kyunghyun Cho, Abhinav Gupta
+单位 | New York University; Carnegie Mellon University; Facebook AI Research
+
+Reanalysis of Variance Reduced Temporal Difference Learning
+链接 | https://openreview.net/pdf?id=S1ly10EKDS
+作者 | Tengyu Xu, Zhe Wang, Yi Zhou, Yingbin Liang
+单位 | Ohio State University; University of Utah
+
+Q-learning with UCB Exploration is Sample Efficient for Infinite-Horizon MDP
+链接 | https://openreview.net/pdf?id=BkglSTNFDB
+作者 | Yuanhao Wang, Kefan Dong, Xiaoyu Chen, Liwei Wang
+单位 | Tsinghua University; Peking University
+
+Automated curriculum generation through setter-solver interactions
+链接 | https://openreview.net/pdf?id=H1e0Wp4KvH
+作者 | Sebastien Racaniere, Andrew Lampinen, Adam Santoro, David Reichert, Vlad Firoiu, Timothy Lillicrap
+单位 | DeepMind
+
+Optimistic Exploration even with a Pessimistic Initialisation
+链接 | https://openreview.net/pdf?id=r1xGP6VYwH
+作者 | Tabish Rashid, Bei Peng, Wendelin Boehmer, Shimon Whiteson
+单位 | University of Oxford
+
+Multi-agent Reinforcement Learning for Networked System Control
+链接 | https://openreview.net/pdf?id=Syx7A3NFvH
+作者 | Tianshu Chu, Sandeep Chinchali, Sachin Katti
+单位 | Stanford University
+
+A Learning-based Iterative Method for Solving Vehicle Routing Problems
+链接 | https://openreview.net/pdf?id=BJe1334YDH
+作者 | Hao Lu, Xingwen Zhang, Shuang Yang
+单位 | Princeton University
+
+Sharing Knowledge in Multi-Task Deep Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rkgpv2VFvr
+作者 | Carlo D’Eramo, Davide Tateo, Andrea Bonarini, Marcello Restelli, Jan Peters
+
+RTFM: Generalising to New Environment Dynamics via Reading
+链接 | https://openreview.net/pdf?id=SJgob6NKvH
+作者 | Victor Zhong, Tim Rocktäschel, Edward Grefenstette
+单位 | University of Washington; University College London; Facebook AI Research
+
+Meta Reinforcement Learning with Autonomous Inference of Subtask Dependencies
+链接 | https://openreview.net/pdf?id=HkgsWxrtPB
+作者 | Sungryull Sohn, Hyunjae Woo, Jongwook Choi, Honglak Lee
+单位 | University of Michigan; Google Brain
+
+Projection-Based Constrained Policy Optimization
+链接 | https://openreview.net/pdf?id=rke3TJrtPS
+作者 | Tsung-Yen Yang, Justinian Rosca, Karthik Narasimhan, Peter J. Ramadge
+单位 | Princeton University;
+
+Graph Constrained Reinforcement Learning for Natural Language Action Spaces
+链接 | https://openreview.net/pdf?id=B1x6w0EtwH
+作者 | Prithviraj Ammanabrolu, Matthew Hausknecht
+单位 | Georgia Institute of Technology; Microsoft Research
+
+V-MPO: On-Policy Maximum a Posteriori Policy Optimization for Discrete and Continuous Control
+链接 | https://openreview.net/pdf?id=SylOlp4FvH
+作者 | H. Francis Song, Abbas Abdolmaleki, Jost Tobias Springenberg, Aidan Clark, Hubert Soyer, Jack W. Rae, Seb Noury, Arun Ahuja, Siqi Liu, Dhruva Tirumala, Nicolas Heess, Dan Belov, Martin Riedmiller, Matthew M. Botvinick
+单位 | DeepMind
+
+Thinking While Moving: Deep Reinforcement Learning with Concurrent Control
+链接 | https://openreview.net/pdf?id=Hke0V1rKPS
+作者 | Ted Xiao, Eric Jang, Dmitry Kalashnikov, Sergey Levine, Julian Ibarz, Karol Hausman, Alexander Herzog
+单位 | Nanyang Technological University; MILA
+
+Keep Doing What Worked: Behavior Modelling Priors for Offline Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rke7geHtwH
+作者 | Noah Siegel, Jost Tobias Springenberg, Felix Berkenkamp, Abbas Abdolmaleki, Michael Neunert, Thomas Lampe, Roland Hafner, Nicolas Heess, Martin Riedmiller
+单位 | DeepMind
+
+Imitation Learning via Off-Policy Distribution Matching
+链接 | https://openreview.net/pdf?id=Hyg-JC4FDr
+作者 | Ilya Kostrikov, Ofir Nachum, Jonathan Tompson
+单位 | Google Research
+
+Adversarial AutoAugment
+链接 | https://openreview.net/pdf?id=ByxdUySKvS
+作者 | Xinyu Zhang, Qiang Wang, Jian Zhang, Zhao Zhong
+
+Option Discovery using Deep Skill Chaining
+链接 | https://openreview.net/pdf?id=B1gqipNYwH
+作者 | Akhil Bagaria, George Konidaris
+单位 | Brown University
+
+State-only Imitation with Transition Dynamics Mismatch
+链接 | https://openreview.net/pdf?id=HJgLLyrYwB
+作者 | Tanmay Gangwani, Jian Peng
+单位 | University of Illinois, Urbana-Champaign
+
+The Gambler’s Problem and Beyond
+链接 | https://openreview.net/pdf?id=HyxnMyBKwB
+作者 | Baoxiang Wang, Shuai Li, Jiajin Li, Siu On Chan
+单位 | Chinese University of Hong Kong; Shanghai Jiao Tong University
+
+Structured Object-Aware Physics Prediction for Video Modeling and Planning
+链接 | https://openreview.net/pdf?id=B1e-kxSKDH
+作者 | Jannik Kossen, Karl Stelzner, Marcel Hussing, Claas Voelcker, Kristian Kersting
+
+Dynamical Distance Learning for Semi-Supervised and Unsupervised Skill Discovery
+链接 | https://openreview.net/pdf?id=H1lmhaVtvr
+作者 | Kristian Hartikainen, Xinyang Geng, Tuomas Haarnoja, Sergey Levine
+
+Exploration in Reinforcement Learning with Deep Covering Options
+链接 | https://openreview.net/pdf?id=SkeIyaVtwB
+作者 | Yuu Jinnai, Jee Won Park, Marlos C. Machado, George Konidaris
+单位 | Brown University; Google Brain
+
+CM3: Cooperative Multi-goal Multi-stage Multi-agent Reinforcement Learning
+链接 | https://openreview.net/pdf?id=S1lEX04tPr
+作者 | Jiachen Yang, Alireza Nakhaei, David Isele, Kikuo Fujimura, Hongyuan Zha
+单位 | Georgia Institute of Technology
+
+Learning to Coordinate Manipulation Skills via Skill Behavior Diversification
+链接 | https://openreview.net/pdf?id=ryxB2lBtvH
+作者 | Youngwoon Lee, Jingyun Yang, Joseph J. Lim
+单位 | University of Southern California
+
+Composing Task-Agnostic Policies with Deep Reinforcement Learning
+链接 | https://openreview.net/pdf?id=H1ezFREtwH
+作者 | Ahmed H. Qureshi, Jacob J. Johnson, Yuzhe Qin, Taylor Henderson, Byron Boots, Michael C. Yip
+单位 | UC San Diego; University of Washington
+
+Frequency-based Search-control in Dyna
+链接 | https://openreview.net/pdf?id=B1gskyStwr
+作者 | Yangchen Pan, Jincheng Mei, Amir-massoud Farahmand
+单位 | University of Alberta; Vector Institute; University of Toronto
+
+Black-box Off-policy Estimation for Infinite-Horizon Reinforcement Learning
+链接 | https://openreview.net/pdf?id=S1ltg1rFDS
+作者 | Ali Mousavi, Lihong Li, Qiang Liu, Denny Zhou
+单位 | Google Research; University of Texas, Austin
+
+CAQL: Continuous Action Q-Learning
+链接 | https://openreview.net/pdf?id=BkxXe0Etwr
+作者 | Moonkyung Ryu, Yinlam Chow, Ross Anderson, Christian Tjandraatmadja, Craig Boutilier
+单位 | Google Research
+
+Reinforced active learning for image segmentation
+链接 | https://openreview.net/pdf?id=SkgC6TNFvr
+作者 | Arantxa Casanova, Pedro O. Pinheiro, Negar Rostamzadeh, Christopher J. Pal
+单位 | MILA; Element AI
+
+The Variational Bandwidth Bottleneck: Stochastic Evaluation on an Information Budget
+链接 | https://openreview.net/pdf?id=Hye1kTVFDS
+作者 | Anirudh Goyal, Yoshua Bengio, Matthew Botvinick, Sergey Levine
+
+Hierarchical Foresight: Self-Supervised Learning of Long-Horizon Tasks via Visual Subgoal Generation
+链接 | https://openreview.net/pdf?id=H1gzR2VKDH
+作者 | Suraj Nair, Chelsea Finn
+单位 | Stanford University; Google Brain
+
+Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning
+链接 | https://openreview.net/pdf?id=BJliakStvH
+作者 | Dexter R.R. Scobee, S. Shankar Sastry
+单位 | UC Berkeley
+
+AutoQ: Automated Kernel-Wise Neural Network Quantization
+链接 | https://openreview.net/pdf?id=rygfnn4twS
+作者 | Qian Lou, Feng Guo, Minje Kim, Lantao Liu, Lei Jiang.
+
+VariBAD: A Very Good Method for Bayes-Adaptive Deep RL via Meta-Learning
+链接 | https://openreview.net/pdf?id=Hkl9JlBYvr
+作者 | Luisa Zintgraf, Kyriacos Shiarlis, Maximilian Igl, Sebastian Schulze, Yarin Gal, Katja Hofmann, Shimon Whiteson
+单位 | University of Oxford; Microsoft Research
+
+Watch, Try, Learn: Meta-Learning from Demonstrations and Rewards
+链接 | https://openreview.net/pdf?id=SJg5J6NtDr
+作者 | Allan Zhou, Eric Jang, Daniel Kappler, Alex Herzog, Mohi Khansari, Paul Wohlhart, Yunfei Bai, Mrinal Kalakrishnan, Sergey Levine, Chelsea Finn
+单位 | Google Brain; UC Berkeley; Stanford
+
+Population-Guided Parallel Policy Search for Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rJeINp4KwH
+作者 | Whiyoung Jung, Giseung Park, Youngchul Sung
+
+Network Randomization: A Simple Technique for Generalization in Deep Reinforcement Learning
+链接 | https://openreview.net/pdf?id=HJgcvJBFvB
+作者 | Kimin Lee, Kibok Lee, Jinwoo Shin, Honglak Lee
+单位 | University of Michigan; Google Brain
+
+On the Weaknesses of Reinforcement Learning for Neural Machine Translation
+链接 | https://openreview.net/pdf?id=H1eCw3EKvH
+作者 | Leshem Choshen, Lior Fox, Zohar Aizenbud, Omri Abend
+
+State Alignment-based Imitation Learning
+链接 | https://openreview.net/pdf?id=rylrdxHFDr
+作者 | Fangchen Liu, Zhan Ling, Tongzhou Mu, Hao Su
+单位 | University of California San Diego
+
+Finding and Visualizing Weaknesses of Deep Reinforcement Learning Agents
+链接 | https://openreview.net/pdf?id=rylvYaNYDH
+作者 | Christian Rupprecht, Cyril Ibrahim, Christopher J. Pal
+单位 | University of Oxford; Element AI; MILA
+
+Model-Augmented Actor-Critic: Backpropagating through Paths
+链接 | https://openreview.net/pdf?id=Skln2A4YDB
+作者 | Ignasi Clavera, Yao Fu, Pieter Abbeel
+
+Behaviour Suite for Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rygf-kSYwH
+作者 | Ian Osband, Yotam Doron, Matteo Hessel, John Aslanides, Eren Sezener, Andre Saraiva, Katrina McKinney, Tor Lattimore, Csaba Szepesvari, Satinder Singh, Benjamin Van Roy, Richard Sutton, David Silver, Hado Van Hasselt
+单位 | DeepMind
+
+Learning Heuristics for Quantified Boolean Formulas through Reinforcement Learning
+链接 | https://openreview.net/pdf?id=BJluxREKDB
+作者 | Gil Lederman, Markus Rabe, Sanjit Seshia, Edward A. Lee
+单位 | UC Berkeley; Google Research
+
+Maxmin Q-learning: Controlling the Estimation Bias of Q-learning
+链接 | https://openreview.net/pdf?id=Bkg0u3Etwr
+作者 | Qingfeng Lan, Yangchen Pan, Alona Fyshe, Martha White
+单位 | University of Alberta
+
+Hypermodels for Exploration
+链接 | https://openreview.net/pdf?id=ryx6WgStPB
+作者 | Vikranth Dwaracherla, Xiuyuan Lu, Morteza Ibrahimi, Ian Osband, Zheng Wen, Benjamin Van Roy
+
+Sub-policy Adaptation for Hierarchical Reinforcement Learning
+链接 | https://openreview.net/pdf?id=ByeWogStDS
+作者 | Alexander Li, Carlos Florensa, Ignasi Clavera, Pieter Abbeel
+单位 | UC Berkeley
+
+SVQN: Sequential Variational Soft Q-Learning Networks
+链接 | https://openreview.net/pdf?id=r1xPh2VtPB
+作者 | Shiyu Huang, Hang Su, Jun Zhu, Ting Chen
+单位 | Tsinghua University
+
+IMPACT: Importance Weighted Asynchronous Architectures with Clipped Target Networks
+链接 | https://openreview.net/pdf?id=BJeGlJStPr
+作者 | Michael Luo, Jiahao Yao, Richard Liaw, Eric Liang, Ion Stoica
+单位 | UC Berkeley
+
+Ranking Policy Gradient
+链接 | https://openreview.net/pdf?id=rJld3hEYvS
+作者 | Kaixiang Lin, Jiayu Zhou
+单位 | Michigan State University
+
+Model-based reinforcement learning for biological sequence design
+链接 | https://openreview.net/pdf?id=HklxbgBKvr
+作者 | Christof Angermueller, David Dohan, David Belanger, Ramya Deshpande, Kevin Murphy, Lucy Colwell
+单位 | Google Research; Caltech
+
+Learning Nearly Decomposable Value Functions Via Communication Minimization
+链接 | https://openreview.net/pdf?id=HJx-3grYDB
+作者 | Tonghan Wang, Jianhao Wang, Chongyi Zheng, Chongjie Zhang
+单位 | Tsinghua University
+
+Implementing Inductive bias for different navigation tasks through diverse RNN attrractors
+链接 | https://openreview.net/pdf?id=Byx4NkrtDS
+作者 | Tie XU, Omri Barak
+
+Toward Evaluating Robustness of Deep Reinforcement Learning with Continuous Control
+链接 | https://openreview.net/pdf?id=SylL0krYPS
+作者 | Tsui-Wei Weng, Krishnamurthy (Dj) Dvijotham, Jonathan Uesato, Kai Xiao, Sven Gowal, Robert Stanforth, Pushmeet Kohli
+单位 | MIT; DeepMind
+
+Learning Efficient Parameter Server Synchronization Policies for Distributed SGD
+链接 | https://openreview.net/pdf?id=rJxX8T4Kvr
+作者 | Rong Zhu, Sheng Yang, Andreas Pfadler, Zhengping Qian, Jingren Zhou
+
+Episodic Reinforcement Learning with Associative Memory
+链接 | https://openreview.net/pdf?id=HkxjqxBYDB
+作者 | Guangxiang Zhu, Zichuan Lin, Guangwen Yang, Chongjie Zhang
+单位 | Tsinghua University
+
+Logic and the 2-Simplicial Transformer
+链接 | https://openreview.net/pdf?id=rkecJ6VFvr
+作者 | James Clift, Dmitry Doryn, Daniel Murfet, James Wallbridge
+单位 | University of Melbourne
+
+Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning
+链接 | https://openreview.net/pdf?id=rkl3m1BFDB
+作者 | Akanksha Atrey, Kaleigh Clary, David Jensen
+单位 | University of Massachusetts Amherst
+
+Playing the lottery with rewards and multiple languages: lottery tickets in RL and NLP
+链接 | https://openreview.net/pdf?id=S1xnXRVFwH
+作者 | Haonan Yu, Sergey Edunov, Yuandong Tian, Ari S. Morcos
+单位 | Facebook AI Research
