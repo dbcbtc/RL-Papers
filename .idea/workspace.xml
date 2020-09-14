@@ -16,8 +16,8 @@
         <entry file="file://$PROJECT_DIR$/ICLR2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="508">
-                <caret line="424" column="45" lean-forward="true" selection-start-line="424" selection-start-column="45" selection-end-line="424" selection-end-column="45" />
+              <first_editor relative-caret-position="462">
+                <caret line="555" lean-forward="true" selection-start-line="555" selection-end-line="555" />
               </first_editor>
               <second_editor />
             </state>
@@ -34,6 +34,8 @@
       <find>郭智慧</find>
       <find>imitation</find>
       <find>image</find>
+      <find>state</find>
+      <find>watch</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,8 +59,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -88,16 +90,17 @@
       <updated>1599638061437</updated>
       <workItem from="1599638069130" duration="296000" />
       <workItem from="1600087395729" duration="180000" />
+      <workItem from="1600092653896" duration="153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="476000" />
+    <option name="totallyTimeSpent" value="629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25292096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2563574" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -129,8 +132,8 @@
     <entry file="file://$PROJECT_DIR$/ICLR2020.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="508">
-            <caret line="424" column="45" lean-forward="true" selection-start-line="424" selection-start-column="45" selection-end-line="424" selection-end-column="45" />
+          <first_editor relative-caret-position="462">
+            <caret line="555" lean-forward="true" selection-start-line="555" selection-end-line="555" />
           </first_editor>
           <second_editor />
         </state>
