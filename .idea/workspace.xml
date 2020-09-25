@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15342bb4-f9da-4726-b083-777c0b8fc9a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ICLR2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/ICLR2020.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/ICLR2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="253">
-                <caret line="341" column="10" lean-forward="true" selection-start-line="341" selection-start-column="10" selection-end-line="341" selection-end-column="10" />
+              <first_editor relative-caret-position="791">
+                <caret line="342" column="40" selection-start-line="342" selection-start-column="40" selection-end-line="342" selection-end-column="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -36,6 +37,7 @@
       <find>state</find>
       <find>watch</find>
       <find>郭智慧</find>
+      <find>赵亮</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -48,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="-662" />
     <option name="y" value="112" />
     <option name="width" value="2262" />
@@ -59,8 +61,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RL-Papers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RL-Papers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -99,9 +111,10 @@
     <option name="totallyTimeSpent" value="722000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25979382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25961033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -133,8 +146,8 @@
     <entry file="file://$PROJECT_DIR$/ICLR2020.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="341" column="10" lean-forward="true" selection-start-line="341" selection-start-column="10" selection-end-line="341" selection-end-column="10" />
+          <first_editor relative-caret-position="791">
+            <caret line="342" column="40" selection-start-line="342" selection-start-column="40" selection-end-line="342" selection-end-column="40" />
           </first_editor>
           <second_editor />
         </state>
