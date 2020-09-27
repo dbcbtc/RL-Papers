@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/ICLR2020.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="791">
-                <caret line="342" column="40" selection-start-line="342" selection-start-column="40" selection-end-line="342" selection-end-column="40" />
+              <first_editor relative-caret-position="395">
+                <caret line="543" column="29" selection-start-line="543" selection-start-column="29" selection-end-line="543" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -36,8 +36,8 @@
       <find>image</find>
       <find>state</find>
       <find>watch</find>
-      <find>郭智慧</find>
       <find>赵亮</find>
+      <find>郭智慧</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -77,6 +77,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,17 +105,17 @@
       <workItem from="1600087395729" duration="180000" />
       <workItem from="1600092653896" duration="153000" />
       <workItem from="1600652823009" duration="93000" />
+      <workItem from="1601214835920" duration="149000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="722000" />
+    <option name="totallyTimeSpent" value="871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1500" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25961033" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26304945" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -146,8 +147,8 @@
     <entry file="file://$PROJECT_DIR$/ICLR2020.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="791">
-            <caret line="342" column="40" selection-start-line="342" selection-start-column="40" selection-end-line="342" selection-end-column="40" />
+          <first_editor relative-caret-position="395">
+            <caret line="543" column="29" selection-start-line="543" selection-start-column="29" selection-end-line="543" selection-end-column="29" />
           </first_editor>
           <second_editor />
         </state>
